@@ -22,4 +22,4 @@ Este projeto é uma aplicação simples em HTML, CSS e JavaScript que consome um
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/FelipeCorreia-TI/Consumindo_API_Publica.git
